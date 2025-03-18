@@ -42,10 +42,10 @@ GPA: **3.5/4**
 > > - Modeling and evaluating the results.
 
 # Technical Skills
-> **- Languages:** C & C++, Python, SQL\
-> **- DataVisualization Tools**: Tableau, Excel...\
-> **- DataScience Libraries:** Numpy, Pandas, Matplotlib, Seaborn...\
-> **- MachineLearning:** TensorFlow, Scikit-learn\
+> * **Languages:** C & C++, Python, SQL\
+> * **DataVisualization Tools**: Tableau, Excel...\
+> * **DataScience Libraries:** Numpy, Pandas, Matplotlib, Seaborn...\
+> * **MachineLearning:** TensorFlow, Scikit-learn\
 
 # Course
 
