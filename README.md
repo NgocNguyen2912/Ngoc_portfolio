@@ -11,39 +11,39 @@ GPA: 3.5/4
 
 # Projects
 ### Costa Rican Household Poverty Level Prediction (Personal Project)
-> **When:** /
-> **Where:**[Here](https://www.kaggle.com/code/ngocnguyen2912/costarica-seminar13)
-> **What is this project:**
-> **Tools and Languages:**
-> **Tasks in the project:**
+> **When:** \
+> **Where:**[Here](https://www.kaggle.com/code/ngocnguyen2912/costarica-seminar13)\
+> **What is this project:**\
+> **Tools and Languages:**\
+> **Tasks in the project:**\
 > > - Exploring and preprocessing data.
 > > - Modeling and evaluation.
 > > - Making outcome predictions.
 
 ### Superstore Project
-> **When:**
-> **Where:**[Here](https://github.com/NgocNguyen2912/DVFP_clone)
-> **What is this project:**
+> **When:**\
+> **Where:**[Here](https://github.com/NgocNguyen2912/DVFP_clone)\
+> **What is this project:**\
 > **Tools and Languages:**  Jupyter Notebook, Tableau, MarkDown, Python
-> **Tasks in the project:**
+> **Tasks in the project:**\
 > > - Preprocessing and exploring superstore data.
 > > - Visualizing charts in the Marketing department.
 > > - Summary of dashboards on Tableau.
 ### Movie Recommendation System Project
-> **When:** /
-> **Where:**[Here](https://github.com/nguyenthichaungoc/Recommender_System_Project) /
-> **What is this project:** /
-> **Tools and Languages:** /
-> **Tasks in the project:**
+> **When:** \
+> **Where:**[Here](https://github.com/nguyenthichaungoc/Recommender_System_Project) \
+> **What is this project:** \
+> **Tools and Languages:** \
+> **Tasks in the project:**\
 > > - Preprocessing and exploring data.
 > > - Performing feature extraction from data.
 > > - Analyzing and visualizing based on data.
 > > - Modeling and evaluating the results.
 # Techical Skills
-> **Languages:** C & C++, Python, SQL
-> **DataVisualization Tools**: Tableau, Excel...
-> **DataScience Libraries:** Numpy, Pandas, Matplotlib, Seaborn...
-> **MachineLearning:** TensorFlow, Scikit-learn
+> **Languages:** C & C++, Python, SQL\
+> **DataVisualization Tools**: Tableau, Excel...\
+> **DataScience Libraries:** Numpy, Pandas, Matplotlib, Seaborn...\
+> **MachineLearning:** TensorFlow, Scikit-learn\
 
 # Course
 
