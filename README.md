@@ -5,8 +5,8 @@ My career aspiration is to become an expert in data analytics or data science, c
 # About me
 With all the knowledge I have accumulated in the previous semester and my projects, I look forward to having the opportunity to challenge myself and gain more experience in a practice environment by participating in practicality and highly applicable projects related to fields such as data science or data analyst. During this opportunity, in a short time, I hope to apply all my experiences studied in this professional environment to real projects
 # Education
-University of Science, HCMC\\
-2020 - 2024\\
+University of Science, HCMC<space><space>
+2020 - 2024<space><space>
 GPA: 3.5/4
 
 # Projects
