@@ -39,7 +39,7 @@ GPA: 3.5/4
 > > - Performing feature extraction from data.
 > > - Analyzing and visualizing based on data.
 > > - Modeling and evaluating the results.
-# Techical Skills
+# Technical Skills
 > **Languages:** C & C++, Python, SQL\
 > **DataVisualization Tools**: Tableau, Excel...\
 > **DataScience Libraries:** Numpy, Pandas, Matplotlib, Seaborn...\
