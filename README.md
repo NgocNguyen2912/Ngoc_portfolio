@@ -1,4 +1,4 @@
-# NGUYEN THI CHAU NGOC
+
 
 # About me
 I am a recent graduate with a degree in Computer Science – Data Science from the University of Natural Sciences in Ho Chi Minh City. My passion for data drives my desire to take on new challenges in this dynamic field. I am currently seeking opportunities where I can apply my academic knowledge, enhance my problem-solving skills, and gain hands-on experience in real-world and professional projects related to the data field.
