@@ -1,2 +1,10 @@
-# Ngoc_portfolio
-A Data Analyst porfolio
+# Data Analyst
+## Education
+University of Science 
+2020 - 2024
+## Project
+### Project 1
+### Project 2
+### Project 3
+
+
