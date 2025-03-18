@@ -1,5 +1,5 @@
 title: Nguyen Thi Chau Ngoc
-logo: /assets/20120146_Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ch%C3%A2u%20Ng%E1%BB%8Dc.jpg
+#logo: /assets/20120146_Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ch%C3%A2u%20Ng%E1%BB%8Dc.jpg
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
